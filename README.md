@@ -6,7 +6,7 @@ __Task__: predict  the fare amount for a taxi ride in New York City
 
 __Evaluation__: Root Mean Squared Error
 
-__Solution__: XGBoost with Bayesian Optimization
+__Solution__: XGBoost with Bayesian Hyperparameter Optimization
 
 __Success__: 3.084 RMSE
 
