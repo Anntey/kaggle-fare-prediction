@@ -8,6 +8,6 @@ __Evaluation__: Root Mean Squared Error
 
 __Solution__: XGBoost with Bayesian Optimization
 
-__Success__: 3.028 RMSE
+__Success__: 3.084 RMSE
 
 ![](feat_importance.png)
